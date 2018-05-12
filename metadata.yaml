@@ -1,0 +1,28 @@
+_repo: Prison-Life-in-AndersonvilleWith-Special-Reference-to-the-Opening-of-Providence-Spring_39584
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39584-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Maile, John Levi
+    alias: Maile, John L.
+    birthdate: 1844
+    gutenberg_agent_id: '40096'
+    url: http://www.gutenberg.org/2009/agents/40096
+description: ''
+gutenberg_issued: '2012-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39584'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Prisoners and prisons'
+- !lcsh 'Andersonville Prison'
+title: "\"Prison Life in Andersonville\"\r\nWith Special Reference to the Opening\
+  \ of Providence Spring"
+url: http://www.gutenberg.org/ebooks/39584
